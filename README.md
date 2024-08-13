@@ -1,3 +1,5 @@
+# 6001CEM Final Project
+
 # Discord Gaming Partner Matchmaking Bot
 
 This bot is designed to help users in the server find their potential gaming partners within the Discord server based on information provided.
